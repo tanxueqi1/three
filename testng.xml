@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Interface Test Suite" parallel="classes" thread-count="1">
+	<parameter name="report.config" value="src/main/resources/extent-config.xml"/>
+	<parameter name="system.info" value="Listener.MySystemInfo"/>
+
+    <test verbose="1" preserve-order="true" name=".">  
+        <classes>        	
+        	<class name="com.tests.TestCase2"/>            
+            <class name="com.tests.TestCase3"/>
+        </classes>
+    </test>
+      
+    <listeners>
+        <listener class-name="Listener.MyExtentTestNgFormatter"/>
+        <listener class-name="Listener.MyExtentTestNgFormatter"/>
+        <listener class-name="Listener.AssertionListener"/>
+    </listeners>
+      
+</suite> 

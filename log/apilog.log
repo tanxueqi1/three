@@ -1,0 +1,35 @@
+2020-05-17 18:13:19 871 INFO  TestCase2:85 - 
+开始执行单元格(Sheet3)第(1)行
+2020-05-17 18:13:22 357 INFO  RestClient:64 - 开始发送带请求头的get请求...
+2020-05-17 18:13:22 357 INFO  RestClient:148 - 解析，得到响应状态码:200
+2020-05-17 18:13:22 357 INFO  RestClient:160 - 得到响应对象的String格式
+2020-05-17 18:13:22 360 INFO  RestClient:163 - {"Token":"","Message":"身份失效，Token验证失败","Success":false}
+2020-05-17 18:13:22 701 INFO  TestCase2:113 - 接口校验PASS
+2020-05-17 18:13:22 807 INFO  TestCase3:84 - 
+开始执行单元格(Sheet1)第(1)行
+2020-05-17 18:13:23 338 INFO  RestClient:64 - 开始发送带请求头的get请求...
+2020-05-17 18:13:23 338 INFO  RestClient:148 - 解析，得到响应状态码:200
+2020-05-17 18:13:23 338 INFO  RestClient:160 - 得到响应对象的String格式
+2020-05-17 18:13:23 340 INFO  RestClient:163 - {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"}],"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-05-17 18:13:23 455 INFO  TestCase3:121 - 接口校验PASS
+2020-05-17 18:13:23 456 INFO  TestCase3:84 - 
+开始执行单元格(Sheet1)第(2)行
+2020-05-17 18:13:23 828 INFO  RestClient:64 - 开始发送带请求头的get请求...
+2020-05-17 18:13:23 829 INFO  RestClient:148 - 解析，得到响应状态码:200
+2020-05-17 18:13:23 829 INFO  RestClient:160 - 得到响应对象的String格式
+2020-05-17 18:13:23 830 INFO  RestClient:163 - {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-05-17 18:13:23 890 INFO  TestCase3:121 - 接口校验PASS
+2020-05-17 18:13:23 892 INFO  TestCase3:84 - 
+开始执行单元格(Sheet1)第(3)行
+2020-05-17 18:13:24 271 INFO  RestClient:64 - 开始发送带请求头的get请求...
+2020-05-17 18:13:24 272 INFO  RestClient:148 - 解析，得到响应状态码:200
+2020-05-17 18:13:24 272 INFO  RestClient:160 - 得到响应对象的String格式
+2020-05-17 18:13:24 273 INFO  RestClient:163 - {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-05-17 18:13:24 317 INFO  TestCase3:121 - 接口校验PASS
+2020-05-17 18:13:24 323 INFO  TestCase3:84 - 
+开始执行单元格(Sheet1)第(4)行
+2020-05-17 18:13:28 183 INFO  RestClient:64 - 开始发送带请求头的get请求...
+2020-05-17 18:13:28 183 INFO  RestClient:148 - 解析，得到响应状态码:200
+2020-05-17 18:13:28 183 INFO  RestClient:160 - 得到响应对象的String格式
+2020-05-17 18:13:28 184 INFO  RestClient:163 - {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"}],"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-05-17 18:13:28 231 INFO  TestCase3:121 - 接口校验PASS
